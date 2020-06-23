@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ae8eb3e17602027521138cc3b1cc5de",
+    "revision": "ee8769a47253d683c0aa805eee602c7a",
     "url": "/Elaine-Kim/portfolio_2.git/index.html"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Elaine-Kim/portfolio_2.git/static/js/4.8f855282.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d598dd930cf3bdcc86a",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/5.404ab578.chunk.js"
+    "revision": "6dae760b7b9773fe88dc",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/5.a6ef77d5.chunk.js"
   },
   {
     "revision": "6136608d13d787e5535e",
     "url": "/Elaine-Kim/portfolio_2.git/static/js/6.9b389bc2.chunk.js"
   },
   {
-    "revision": "5f804bbb2825846ac164",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/7.6ec010b3.chunk.js"
+    "revision": "d45916b7da3c29ec2af3",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/7.f6609e37.chunk.js"
   },
   {
     "revision": "5bc02ed24acd1dc87457",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Elaine-Kim/portfolio_2.git/static/js/main.238f08a5.chunk.js"
   },
   {
-    "revision": "22e3851f72d791f733c7",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/runtime-main.be98c545.js"
+    "revision": "41b86f1332e7bbb8cfba",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/runtime-main.c31f4035.js"
   }
 ]);
