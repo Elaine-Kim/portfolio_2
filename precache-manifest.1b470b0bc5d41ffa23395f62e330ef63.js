@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba730011d34b44d6a6f45431bb225ae8",
+    "revision": "9ad25dadfe17667cee4936d37b695a71",
     "url": "/portfolio_2/index.html"
   },
   {
-    "revision": "6dd42fa5f63976423c8a",
+    "revision": "1cf6329643f896ddd03f",
     "url": "/portfolio_2/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio_2/static/js/10.d27caadd.chunk.js"
   },
   {
-    "revision": "f30e01d2208b3d738e49",
-    "url": "/portfolio_2/static/js/4.a8d02922.chunk.js"
+    "revision": "5e5008e3d28e72991282",
+    "url": "/portfolio_2/static/js/4.8f855282.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio_2/static/js/4.a8d02922.chunk.js.LICENSE.txt"
+    "url": "/portfolio_2/static/js/4.8f855282.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9566319ed38c6833cd81",
-    "url": "/portfolio_2/static/js/5.dbc179b8.chunk.js"
+    "revision": "976fbc003375d44a21fb",
+    "url": "/portfolio_2/static/js/5.82b12ed9.chunk.js"
   },
   {
     "revision": "bb50a6947150a1c36b84",
     "url": "/portfolio_2/static/js/6.aa77bc1a.chunk.js"
   },
   {
-    "revision": "83cedf3ad113a7091a72",
-    "url": "/portfolio_2/static/js/7.0b12a6d0.chunk.js"
+    "revision": "27c8f07d6eb9f5fe4746",
+    "url": "/portfolio_2/static/js/7.ab252fd8.chunk.js"
   },
   {
     "revision": "5bc02ed24acd1dc87457",
@@ -48,11 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio_2/static/js/9.a58dba98.chunk.js"
   },
   {
-    "revision": "6dd42fa5f63976423c8a",
-    "url": "/portfolio_2/static/js/main.6f1e513a.chunk.js"
+    "revision": "1cf6329643f896ddd03f",
+    "url": "/portfolio_2/static/js/main.253177a7.chunk.js"
   },
   {
-    "revision": "50d37087cf8bcc9531a8",
-    "url": "/portfolio_2/static/js/runtime-main.24286de0.js"
+    "revision": "ffe123707e1d8e55362a",
+    "url": "/portfolio_2/static/js/runtime-main.3301934f.js"
   }
 ]);
