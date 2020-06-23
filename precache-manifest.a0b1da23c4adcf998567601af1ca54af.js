@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfd5c6219f8d74493cef644802815be0",
+    "revision": "1a6ed997f9bc02971768560bbd9a9f0c",
     "url": "/Elaine-Kim/portfolio_2.git/index.html"
   },
   {
-    "revision": "5d2436d8a0d8ebb2f03f",
+    "revision": "203b498bf646a9f3c91b",
     "url": "/Elaine-Kim/portfolio_2.git/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Elaine-Kim/portfolio_2.git/static/js/9.fac2a8fb.chunk.js"
   },
   {
-    "revision": "5d2436d8a0d8ebb2f03f",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/main.214723ed.chunk.js"
+    "revision": "203b498bf646a9f3c91b",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/main.185e08a4.chunk.js"
   },
   {
     "revision": "001a5914aa6915747928",

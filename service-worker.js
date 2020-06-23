@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Elaine-Kim/portfolio_2.git/precache-manifest.bbfd16a44fceb4580478902a0affbbd9.js"
+  "/Elaine-Kim/portfolio_2.git/precache-manifest.a0b1da23c4adcf998567601af1ca54af.js"
 );
 
 self.addEventListener('message', (event) => {
