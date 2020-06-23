@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a6ed997f9bc02971768560bbd9a9f0c",
+    "revision": "2ae8eb3e17602027521138cc3b1cc5de",
     "url": "/Elaine-Kim/portfolio_2.git/index.html"
   },
   {
-    "revision": "203b498bf646a9f3c91b",
+    "revision": "92281fc74264ba09e18a",
     "url": "/Elaine-Kim/portfolio_2.git/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Elaine-Kim/portfolio_2.git/static/js/10.d27caadd.chunk.js"
   },
   {
-    "revision": "f30e01d2208b3d738e49",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/4.a8d02922.chunk.js"
+    "revision": "5e5008e3d28e72991282",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/4.8f855282.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/4.a8d02922.chunk.js.LICENSE.txt"
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/4.8f855282.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc65a42b237f84e24dba",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/5.42165edb.chunk.js"
+    "revision": "0d598dd930cf3bdcc86a",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/5.404ab578.chunk.js"
   },
   {
     "revision": "6136608d13d787e5535e",
     "url": "/Elaine-Kim/portfolio_2.git/static/js/6.9b389bc2.chunk.js"
   },
   {
-    "revision": "ec967dd9d34e35184e81",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/7.90bca734.chunk.js"
+    "revision": "5f804bbb2825846ac164",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/7.6ec010b3.chunk.js"
   },
   {
     "revision": "5bc02ed24acd1dc87457",
@@ -48,11 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Elaine-Kim/portfolio_2.git/static/js/9.fac2a8fb.chunk.js"
   },
   {
-    "revision": "203b498bf646a9f3c91b",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/main.185e08a4.chunk.js"
+    "revision": "92281fc74264ba09e18a",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/main.238f08a5.chunk.js"
   },
   {
-    "revision": "001a5914aa6915747928",
-    "url": "/Elaine-Kim/portfolio_2.git/static/js/runtime-main.4fceafad.js"
+    "revision": "22e3851f72d791f733c7",
+    "url": "/Elaine-Kim/portfolio_2.git/static/js/runtime-main.be98c545.js"
   }
 ]);
