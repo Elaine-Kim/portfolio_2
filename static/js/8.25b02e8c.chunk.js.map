@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Contact/Contact.js"],"names":["ContactMe"],"mappings":"uGAAA,2BAUeA,UARG,WAChB,OACE,oCACE","file":"static/js/8.25b02e8c.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst ContactMe = () => {\r\n  return (\r\n    <>\r\n      <div>Contact me Page</div>\r\n    </>\r\n  );\r\n};\r\n\r\nexport default ContactMe;\r\n"],"sourceRoot":""}

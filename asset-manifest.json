@@ -1,0 +1,38 @@
+{
+  "files": {
+    "static/js/0.43a7200d.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/0.43a7200d.chunk.js",
+    "static/js/0.43a7200d.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/0.43a7200d.chunk.js.map",
+    "static/js/1.80f9ca62.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/1.80f9ca62.chunk.js",
+    "static/js/1.80f9ca62.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/1.80f9ca62.chunk.js.map",
+    "main.css": "/Elaine-Kim/portfolio_2.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Elaine-Kim/portfolio_2.git/static/js/main.214723ed.chunk.js",
+    "main.js.map": "/Elaine-Kim/portfolio_2.git/static/js/main.214723ed.chunk.js.map",
+    "runtime-main.js": "/Elaine-Kim/portfolio_2.git/static/js/runtime-main.4fceafad.js",
+    "runtime-main.js.map": "/Elaine-Kim/portfolio_2.git/static/js/runtime-main.4fceafad.js.map",
+    "static/js/4.a8d02922.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/4.a8d02922.chunk.js",
+    "static/js/4.a8d02922.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/4.a8d02922.chunk.js.map",
+    "static/js/5.42165edb.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/5.42165edb.chunk.js",
+    "static/js/5.42165edb.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/5.42165edb.chunk.js.map",
+    "static/js/6.9b389bc2.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/6.9b389bc2.chunk.js",
+    "static/js/6.9b389bc2.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/6.9b389bc2.chunk.js.map",
+    "static/js/7.90bca734.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/7.90bca734.chunk.js",
+    "static/js/7.90bca734.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/7.90bca734.chunk.js.map",
+    "static/js/8.25b02e8c.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/8.25b02e8c.chunk.js",
+    "static/js/8.25b02e8c.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/8.25b02e8c.chunk.js.map",
+    "static/js/9.fac2a8fb.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/9.fac2a8fb.chunk.js",
+    "static/js/9.fac2a8fb.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/9.fac2a8fb.chunk.js.map",
+    "static/js/10.d27caadd.chunk.js": "/Elaine-Kim/portfolio_2.git/static/js/10.d27caadd.chunk.js",
+    "static/js/10.d27caadd.chunk.js.map": "/Elaine-Kim/portfolio_2.git/static/js/10.d27caadd.chunk.js.map",
+    "index.html": "/Elaine-Kim/portfolio_2.git/index.html",
+    "precache-manifest.bbfd16a44fceb4580478902a0affbbd9.js": "/Elaine-Kim/portfolio_2.git/precache-manifest.bbfd16a44fceb4580478902a0affbbd9.js",
+    "service-worker.js": "/Elaine-Kim/portfolio_2.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Elaine-Kim/portfolio_2.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/4.a8d02922.chunk.js.LICENSE.txt": "/Elaine-Kim/portfolio_2.git/static/js/4.a8d02922.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fceafad.js",
+    "static/js/4.a8d02922.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.214723ed.chunk.js"
+  ]
+}

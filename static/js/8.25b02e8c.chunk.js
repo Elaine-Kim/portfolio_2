@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[8],{51:function(t,e,n){"use strict";n.r(e);var a=n(0),o=n.n(a);e.default=function(){return o.a.createElement(o.a.Fragment,null,o.a.createElement("div",null,"Contact me Page"))}}}]);
+//# sourceMappingURL=8.25b02e8c.chunk.js.map
